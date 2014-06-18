@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Нема конекција со податоци за  %s минути</item>
+        <item quantity="one">Нема конекција со податоци за  %s минута</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Уредот ќе биде во режим на Emergency Callback  за %s минута. Додека во овој режим апликациите кои не користат конекција со податоци неможат да бидат користени. Дали сакате да излезете?</item>
+        <item quantity="one">Уредот ќе биде во режим на Emergency Callback  за %s минута. Додека во овој режим апликациите кои не користат конекција со податоци неможат да бидат користени.Дали сакате да излезете?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">"Избраната акција не е достапна во режим на  Emergency Callback .Уредот че биде во овој режим за %s минути. Дали сакате да излезете?"</item>
+        <item quantity="one">"Избраната акција не е достапна во режим на  Emergency Callback .Уредот че биде во овој режим за %s минута. Дали сакате да излезете?"</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d  одбрани"</item>
+        <item quantity="zero">%1$d одбрани</item>
+        <item quantity="one">%1$d одбрани</item>
+    </plurals>
+</resources>

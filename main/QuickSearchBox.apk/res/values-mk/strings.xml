@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Пребарај</string>
+  <string name="apps_search_activity"/>
+  <string name="clear_shortcuts">ИЗбриши кратенки</string>
+  <string name="clear_shortcuts_agree">Избриши кратенки</string>
+  <string name="clear_shortcuts_disagree">"Не бриши кратенки"</string>
+  <string name="clear_shortcuts_prompt">"Ќе се избришат сите кратенки и последно означените побарани сугестии. (За бршење на историјата на Пребарувачот,одете во Нагодувања на пребарувачот.)"</string>
+  <string name="clear_shortcuts_summary">Избришани се  сите кратенки и последно означените побарани сугестии.</string>
+  <string name="corpus_description_apps">Имиња на инсатлирани апликации</string>
+  <string name="corpus_description_web">Web пребарување, bookmarks и историја на пребарувачот</string>
+  <string name="corpus_hint_apps">Пребарани Апликации</string>
+  <string name="corpus_label_apps">Апликации</string>
+  <string name="corpus_label_global">Сите</string>
+  <string name="corpus_label_web">Веб</string>
+  <string name="corpus_selection_heading">Пребарај</string>
+  <string name="default_search_domain">.google.com</string>
+  <string name="device_settings_category_title">ИЗбриши кратенки</string>
+  <string name="google_app_label">Google Пребарувач</string>
+  <string name="google_search_base">https://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+  <string name="google_search_description">Сугестии на Google Пребарувач</string>
+  <string name="google_search_hint">Google Пребарувач</string>
+  <string name="google_search_label">Google</string>
+  <string name="google_settings_category_title">Google Пребарувач</string>
+  <string name="google_suggest_base">https://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="menu_help">Помош</string>
+  <string name="menu_settings">Нагодувања на пребарувачот</string>
+  <string name="remove_from_history">Избриши од историја на пребарувачот</string>
+  <string name="remove_from_history_failed">"Неможе да се избрише предметот од историја на пребарувачот"</string>
+  <string name="search_in_app_store">Пребарај во маркетот</string>
+  <string name="search_in_web">Пребарај низ Интерет</string>
+  <string name="search_settings">Нагодувања на пребарувачот</string>
+  <string name="search_sources">предмети за пребарување</string>
+  <string name="search_sources_summary">Одбери што да пребаруваш на уредот</string>
+  <string name="search_widget">Пребарај</string>
+  <string name="system_search_category_title">Мобилен</string>
+  <string name="voice_search_hint_quotation_end">”</string>
+  <string name="voice_search_hint_quotation_start">“</string>
+  <string name="voice_search_hint_title">Пробај кажувајќи:</string>
+</resources>

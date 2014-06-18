@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Xiaomi синхронизација</string>
+  <string name="find_device">Најди уред</string>
+  <string name="find_device_stop_noise">Кликни \"OK\" за да го исклучиш алармот</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Синхронизирај ги сликите преку Wi-Fi за да избегнеш дополнителни податоци</string>
+  <string name="pref_title_sync_contacts_title">Синхронизирај ги контактите</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Користи Wi-Fi за да ги покажеш сликите</string>
+  <string name="sub_sync_item_sms_summary">Синхрон.ги пораките преку Wi-Fi за да избегнеш дополнителни податоци</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Користи Wi-Fi за сингронизација на пораките</string>
+  <string name="sync_item_sms_summary">Пораките ќе бидат автоматски синхронизирани</string>
+  <string name="sync_item_sms_title">Синхронизирани пораки</string>
+</resources>

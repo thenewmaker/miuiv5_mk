@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Моќност на звук</string>
+  <string name="ci_extreme">FX booster</string>
+  <string name="eq_dialog_title">Equalizer</string>
+  <string name="headset_plug">Вклучи слушалки за користење на ефектите.</string>
+  <string name="main_toggle_effects_title">Аудио ефекри</string>
+  <string name="no_effects">ефектите не се достапни.</string>
+  <string name="picker_title">Контролна лента со музички ефекти</string>
+  <string name="pr_dialog_title">Reverb preseс</string>
+  <string name="pr_summary">Дополнителна опција за ефеткти на преторање на зборовите</string>
+  <string name="pr_title">Претворање на збор:</string>
+  <string name="setup">Поставување</string>
+  <string name="user">Корсиник</string>
+  <string name="virtualizer_strength">3D ефект</string>
+</resources>

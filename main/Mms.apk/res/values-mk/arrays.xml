@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>Еднаш</item>
+        <item>Два пати</item>
+        <item>Tри пати</item>
+        <item>Пет пати</item>
+        <item>Десет пати</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Име</item>
+        <item>Корисничко име</item>
+        <item>Телефон</item>
+        <item>E-mail</item>
+        <item>Организација</item>
+        <item>IM</item>
+        <item>SIP Телефон</item>
+        <item>Роденден</item>
+        <item>Веб страна</item>
+        <item>Адеса</item>
+        <item>Забелешка</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Пристигнато време</item>
+        <item>Пратено време</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Преку порака</item>
+        <item>Преку Cloud порака</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Преку порака</item>
+        <item>Преку Cloud порака</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 секунди</item>
+        <item>3 секунди</item>
+        <item>4 секунди</item>
+        <item>5 секунди</item>
+        <item>6 секунди</item>
+        <item>7 секунди</item>
+        <item>8 секунди</item>
+        <item>9 секунди</item>
+        <item>10 секунди</item>
+        <item>Останато</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Секогаш</item>
+        <item>Кога е ставено на нечујно</item>
+        <item>Никогаш</item>
+    </string-array>
+</resources>

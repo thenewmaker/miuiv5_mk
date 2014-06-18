@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_language_entries">
+        <item>Англиски</item>
+        <item>Француски</item>
+        <item>Шпански</item>
+        <item>Јапонски</item>
+        <item>Корејски</item>
+        <item>Кинески</item>
+        <item>Хебрејски</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Само дома</item>
+        <item>Автоматски</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY исклучено</item>
+        <item>TTY целосно</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Нормално</item>
+        <item>Долго</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Секогаш</item>
+        <item>Кога е ставено на безвучен режим</item>
+        <item>Никогаш</item>
+    </string-array>
+</resources>

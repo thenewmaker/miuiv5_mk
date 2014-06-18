@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_scenes_entries">
+        <item>За музика</item>
+        <item>За човечки глас</item>
+    </string-array>
+</resources>

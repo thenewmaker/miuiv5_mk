@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="continues">Продолжи</string>
+  <string name="data_usage_summary">Доколку немате аплицирано за план на податоци,потребно е да го исклучите мобилниот интернет.Доколку не го направите то,вашиот опертор може да наплати дополнителни казни.</string>
+  <string name="default_gprs_sim_name">Ве молиме внесете \"%s\" ограничување за план на податоци</string>
+  <string name="input_method">Метод на внесување</string>
+  <string name="input_method_category">Одбери метод на внесување</string>
+  <string name="next">следно</string>
+  <string name="other_service_google_location">Google услуги за локација</string>
+  <string name="other_service_google_location_use">Локација &amp; Google пребарувач</string>
+  <string name="other_service_google_location_use_help">"Дозволи на  Google услугите за локација за добивање на непознати податоци на локација.Добивањето ќе се појави и доколку ниедна апликације не работи.За местење на нагодувањата,одете во Нагодувања &gt;Услуги за локација"</string>
+  <string name="other_service_google_location_use_summary">дозволи на Google да ја искористи твојата локација за подобрување на резултатите од пребарувањата и други услуги</string>
+  <string name="other_service_label">Други услуги</string>
+  <string name="other_service_location">Услуги за локација</string>
+  <string name="other_service_location_summary">Услугите за локација им дозволуваат на мапите и другите апликации да примаат детали за локација користејќи GPS</string>
+  <string name="other_service_permission_manager">Дозвола за управување со апликации</string>
+  <string name="other_service_permission_manager_summary">Апликации за следење за безбедности и приватност</string>
+  <string name="other_service_user_experience">Приклучи се на програмата за искуство на корисници</string>
+  <string name="other_service_user_experience_summary0">"Ви се доверуваме за користење на нашиот производ и карактеристика и се надеваме дека ќе ни помогнете со праќање на повратни информации."</string>
+  <string name="other_service_user_experience_summary1">Благодарејќи на MIUI тимот </string>
+  <string name="setup_complete_info">Потоа услугите за продавање ќе бидат активирани уштењ првиот пат кога ќе го користите уредот</string>
+  <string name="setup_complete_label">Поставувањето е успешно</string>
+  <string name="setup_complete_start">Почнете со користење на уредот</string>
+  <string name="setup_complete_summary">Поставката е успешна! Ужувајте користејќи MIUI!</string>
+  <string name="shutdown">Исклучување</string>
+  <string name="sim_card_detection_dialog_message">Се вчитува SIM картичката,ве молиме почекајте...</string>
+  <string name="sim_card_detection_info">"Недостапна поставка на  Xiaomi профилот без SIM картичка. Потребна е SIM картичка за користење на синхронизација на профилот,следење на телефонот итн."</string>
+  <string name="sim_card_detection_label">Се вчитва SIM картичка</string>
+  <string name="sim_card_detection_status_absent">SIM картичката не е вчитана!</string>
+  <string name="traffic_protection_label">Следење на податоци за мрежен сообраќај</string>
+  <string name="traffic_protection_summary">Следењето на податоците за мрежен сообраќај ќе ве потсети кога вашите податоци го стигнале лимитот.</string>
+  <string name="traffic_protection_text_hint">Ве молиме внесете го планот за ограничување на податоци.</string>
+  <string name="traffic_protection_unknown">Не знам. Ќе се внесе подоцна.</string>
+  <string name="use_data">Уклучи податоци</string>
+</resources>

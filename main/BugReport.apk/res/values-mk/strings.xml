@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_submit">Достави</string>
+  <string name="app_label">Повратна информација</string>
+  <string name="btn_send">Испрати</string>
+  <string name="bugreport_feedback_from">Од: %s</string>
+  <string name="description">Опис (потребен)</string>
+  <string name="discard_draft_dialog_button_cancel">Откажи</string>
+  <string name="discard_draft_dialog_button_discard">OK</string>
+  <string name="discard_draft_dialog_content">Извештајот беше изменет, кликнете на копчето OK за да го отфрлите нацртот.</string>
+  <string name="discard_draft_dialog_title">Отфрлен нацрт</string>
+  <string name="err_type">Тип на повратна информација</string>
+  <string name="err_type_call">Јави прашање</string>
+  <string name="err_type_data_lost">Изгубен податок</string>
+  <string name="err_type_force_close">Присилно затворање</string>
+  <string name="err_type_network">Прашања за мрежата</string>
+  <string name="err_type_others">Друго</string>
+  <string name="err_type_power_consuming">Потрошувачка енергија</string>
+  <string name="err_type_reboot">Подигање на системот</string>
+  <string name="err_type_suggestion">Сугестии</string>
+  <string name="menu_attach_screenshot">Прикачи на екранот</string>
+  <string name="menu_copy">Копирај</string>
+  <string name="menu_discard">Отфрли</string>
+  <string name="menu_send">Прати репорт</string>
+  <string name="network_unavailable_dialog_button_ok">OK</string>
+  <string name="network_unavailable_dialog_content">Повратните информации ќе бидат испратени кога ќе имате пристап до мобилната мрежа</string>
+  <string name="network_unavailable_dialog_title">Нема мрежа</string>
+  <string name="packaging_dialog_content">Извештајот се генерира, ве молиме почекајте...</string>
+  <string name="report_miui">Извештај за MIUI</string>
+  <string name="section_description">Опис</string>
+  <string name="section_err_type">Тип на повратна информација</string>
+  <string name="section_screenshot">Екран</string>
+  <string name="status_msg_collecting_log">Собирање логови...</string>
+  <string name="status_msg_pending_upload">%d повратните информации се поставени...</string>
+  <string name="toast_description_required">Потребен е опис пред да бидат доставени барањата</string>
+  <string name="toast_feedback_pending_wlan">Повратните информации ќе се испратат кога Wi-Fi мрежата ќе биде достапна</string>
+  <string name="toast_feedback_submitted">Повратните информации беа успешно доставени</string>
+  <string name="toast_pending_log_collection">Собирање логови, ве молиме почекајте...</string>
+  <string name="toast_report_copied_to_clipboard">Извештајот е копиран на таблата</string>
+  <string name="toast_report_sent_failed">Неуспешно пратен извештај!</string>
+  <string name="toast_report_sent_succeed">Извештајот е успешно пратен!</string>
+  <string name="user_feedback">Повратни информации за корисникот</string>
+  <string name="wlan_unavailable_dialog_button_ok">OK</string>
+  <string name="wlan_unavailable_dialog_button_sent">Испрати сега</string>
+  <string name="wlan_unavailable_dialog_content">%s потребно е за 2G/3G податоци, кликни OK за испаќање само преку Wi-Fi</string>
+  <string name="wlan_unavailable_dialog_title">Wi-Fi не е достапен</string>
+</resources>

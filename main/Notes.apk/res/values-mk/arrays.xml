@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Име</item>
+        <item>Корисничко име</item>
+        <item>Phone</item>
+        <item>E-mail</item>
+        <item>oОрганизација</item>
+        <item>IM</item>
+        <item>SIP тњлњфон</item>
+        <item>Роденден</item>
+        <item>Веб страна</item>
+        <item>Адреса</item>
+        <item>Забелешка</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Најмала</item>
+        <item>Нормална</item>
+        <item>Голема</item>
+        <item>Одлична</item>
+    </string-array>
+</resources>

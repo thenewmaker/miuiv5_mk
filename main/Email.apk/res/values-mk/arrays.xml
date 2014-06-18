@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Тенок текст</item>
+        <item>Мал текст</item>
+        <item>Стандарден текст</item>
+        <item>Голем текст</item>
+        <item>Огромен текст</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>Оди на нова порака откако ќе избришете порака</item>
+        <item>Оди на стара порака откако ќе избришете порака</item>
+        <item>Оди во инбокс откако ќе избришете порака</item>
+    </string-array>
+</resources>

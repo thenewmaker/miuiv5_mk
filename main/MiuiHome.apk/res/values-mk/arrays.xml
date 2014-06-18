@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Класичен слајд</item>
+        <item>Класичен слајд  (без префрлување)</item>
+        <item>Бледи</item>
+        <item>Паѓа</item>
+        <item>Страна</item>
+        <item>Каскадно</item>
+        <item>Ротирај</item>
+        <item>Коцка</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Стандардна тема</item>
+        <item>Центар</item>
+        <item>Лево</item>
+        <item>Десно</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Стандардно</item>
+        <item>Класично</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Чисто</item>
+        <item>Облачно</item>
+        <item>Магливо</item>
+        <item>Магла</item>
+        <item>Тешка бура</item>
+        <item>Бура</item>
+        <item>Многу тешки врнежи</item>
+        <item>Грмотевици</item>
+        <item>Дожд</item>
+        <item>Обилни врнежи</item>
+        <item>Дожд</item>
+        <item>Ситен дожд</item>
+        <item>Лапавица</item>
+        <item>Снежна бура</item>
+        <item>Снежни врнежи</item>
+        <item>Обилни снежни врнежи</item>
+        <item>Снежни врнежи</item>
+        <item>Осветлени снежни врнежи</item>
+        <item>Силна песочна бура</item>
+        <item>Песочна бура</item>
+        <item>Осветлена песочна бура</item>
+        <item>Песочна бура</item>
+        <item>Град</item>
+        <item>Лебди прашинаFloating Dust</item>
+        <item>Магла</item>
+    </string-array>
+</resources>

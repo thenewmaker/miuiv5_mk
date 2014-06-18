@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="altitude">%.1ф</string>
+  <string name="altitude_title">Надморска височина</string>
+  <string name="altitude_unit">м</string>
+  <string name="app_label">Компас</string>
+  <string name="calibrate_failed_no_location">Неуспешна калибрација: Немозможно е да се добие моменталната ширина и должина</string>
+  <string name="calibrate_failed_timeout">Неуспешна калибрација: Истече времето на серверот</string>
+  <string name="calibrate_success">Комплетна калибрација</string>
+  <string name="cannot_get_location">Непозната локација</string>
+  <string name="dialog_calibrat_altitude">Калибрирање на надморска височина преку интернет конекција.</string>
+  <string name="dialog_title_no_network">Нема најдено мрежа, поврзи се преку Wi-Fi или преку податоците</string>
+  <string name="direction_east">И</string>
+  <string name="direction_north">С</string>
+  <string name="direction_south">Ј</string>
+  <string name="direction_west">З</string>
+  <string name="getting_location">Се добива локација...</string>
+  <string name="guide_toast">"Може да има мешање од магнетното поле, ве молиме калибрирајте го компасот со користење на следниот гест."</string>
+  <string name="latitude">ШИР</string>
+  <string name="location_east">И</string>
+  <string name="location_north">С</string>
+  <string name="location_south">Ј</string>
+  <string name="location_west">З</string>
+  <string name="longitude">ДОЛЖ</string>
+  <string name="menu_calibrate">Калибрирај</string>
+  <string name="menu_calibrate_altitude">Калибрирај надморска височина</string>
+  <string name="pressure">%.1ф</string>
+  <string name="pressure_title">Притисок</string>
+  <string name="pressure_unit">ХПа</string>
+</resources>

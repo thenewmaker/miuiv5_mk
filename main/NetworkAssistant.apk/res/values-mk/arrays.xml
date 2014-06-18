@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic">
+        <item>Мрежен сообраќај вчера </item>
+        <item>Мрежен сообраќај денес</item>
+        <item>Мрежен сообраќај овој месец</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Вчера на 2G/3G</item>
+        <item>Денес на 2G/3G</item>
+        <item>Овој месец на2G/3G</item>
+        <item>Вчера на Wi-Fi</item>
+        <item>Денес на Wi-fi</item>
+        <item>Овој месец на Wi-Fi</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Вчера 2G/3G</item>
+        <item>Денес 2G/3G</item>
+        <item>Овој месец 2G/3G</item>
+    </string-array>
+    <string-array name="traffic_uints">
+        <item>" B"</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3s</item>
+        <item>4s</item>
+        <item>5s</item>
+        <item>6s</item>
+        <item>7s</item>
+        <item>8s</item>
+        <item>9s</item>
+    </string-array>
+    <string-array name="network_speed_update_internal_values">
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+        <item>9000</item>
+    </string-array>
+</resources>
+

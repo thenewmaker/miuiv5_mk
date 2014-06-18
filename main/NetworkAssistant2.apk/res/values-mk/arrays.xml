@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Вчера</item>
+        <item>Денес</item>
+        <item>Овој месец</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Вчера(Податоци)</item>
+        <item>Today (Податоци)</item>
+        <item>This month (Податоци)</item>
+        <item>Вчера WLAN</item>
+        <item>Денес WLAN</item>
+        <item>Овој месец WLAN</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Вчера (Податоци)</item>
+        <item>Денес (Податоци)</item>
+        <item>Овој месец (Податоци)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 сек</item>
+        <item>4 сек</item>
+        <item>5 сек</item>
+        <item>6 сек</item>
+        <item>7 сек</item>
+        <item>8 сек</item>
+        <item>9 сек</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Користење на податоци</item>
+        <item>Користење WLAN</item>
+        <item>Севкупно користење</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Добивај дефинирани пораки автоматски</item>
+        <item>Постави дефинирана порака рачно</item>
+    </string-array>
+</resources>

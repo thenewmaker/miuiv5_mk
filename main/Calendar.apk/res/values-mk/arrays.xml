@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Известувања</item>
+        <item>E-маил</item>
+        <item>СМС</item>
+        <item>Аларм</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Никој</item>
+        <item>0 минути</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>1 ден</item>
+        <item>2 дена</item>
+        <item>1 недела</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Никој</item>
+        <item>0 минути</item>
+        <item>5 минути</item>
+        <item>10 минути</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>1 ден</item>
+        <item>2 дена</item>
+        <item>1 недела</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Стандардна локација</item>
+        <item>Сабота</item>
+        <item>Недела</item>
+        <item>Понеделник</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Островите Маршал</item>
+        <item>Средни острови</item>
+        <item>Хаваи</item>
+        <item>Аљаска</item>
+        <item>Пацифик време</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чихуахуа</item>
+        <item>Планинско време</item>
+        <item>Централна Америка</item>
+        <item>Централно време</item>
+        <item>Мексико сити</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Источно време</item>
+        <item>Венецуела</item>
+        <item>Атлантско време (Барбадос)</item>
+        <item>Атлантско време (Канада)</item>
+        <item>Манаус</item>
+        <item>Сантиаго</item>
+        <item>Њуфаундленд</item>
+        <item>Бразил</item>
+        <item>Буенос Аирес</item>
+        <item>Гринланд</item>
+        <item>Монтевидео</item>
+        <item>Среден Атлантик</item>
+        <item>Азурни</item>
+        <item>Острови Кејп Верде</item>
+        <item>Казабланка</item>
+        <item>Лондон, Даблин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брисел</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>З. Афричко Време</item>
+        <item>Амман, Јордан</item>
+        <item>Атина, Истанбул</item>
+        <item>Бејрут, Либан</item>
+        <item>Каиро</item>
+        <item>Хелсинки</item>
+        <item>Ерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувајт</item>
+        <item>Наироби</item>
+        <item>Техеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Јереван</item>
+        <item>Дубаи</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>"Урал"</item>
+        <item>Јекатеринбург</item>
+        <item>Колката</item>
+        <item>Шри Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Јангон</item>
+        <item>Краснојарск</item>
+        <item>Банкок</item>
+        <item>Пекинг</item>
+        <item>Хонг Конг</item>
+        <item>Иркутск</item>
+        <item>Куала Лумпур</item>
+        <item>Перт</item>
+        <item>Тајпеј</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Јакутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбејн</item>
+        <item>Хобарт</item>
+        <item>Сиднеј, Канбера</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Оукленд</item>
+        <item>Фиџи</item>
+        <item>Тонга</item>
+    </string-array> 
+    <string-array name="availability">
+        <item>Достапни</item>
+        <item>Пробни</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Стандардни</item>
+        <item>Приватни</item>
+        <item>Јавни</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>прв</item>
+        <item>втор</item>
+        <item>трет</item>
+        <item>четврт</item>
+        <item>последен</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Нема одговор</item>
+        <item>Да</item>
+        <item>Можеби</item>
+        <item>Не</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Само овој настан</item>
+        <item>Овој и идни настани</item>
+        <item>Сите настани</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Овој &амп; идни настани</item>
+        <item>Сите настани</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Само овој настан</item>
+        <item>Сите настани во серии</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Ден</item>
+        <item>Недела</item>
+        <item>Месец</item>
+        <item>Агенда</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Вклучување со само неколку минути задоцнување.</item>
+        <item>Биди таму за околу 10 минути.</item>
+        <item>Оди напред и почни без мене.</item>
+        <item>"Извини, јас нема да можам.Ќе мора да презакажеме."</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Секогаш</item>
+        <item>Само кога е нечујно</item>
+        <item>Никогаш</item>
+    </string-array>
+</resources>

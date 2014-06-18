@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d поврзани песни</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песна</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песна</item>
+    </plurals>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%d песни</item>
+        <item quantity="one">%d песна</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%d албуми</item>
+        <item quantity="one">%d албум</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">песни</item>
+        <item quantity="one">песна</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">албуми</item>
+        <item quantity="one">албум</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">изведувачи</item>
+        <item quantity="one">изведувач</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">плејлисти</item>
+        <item quantity="one">плејлиста</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" фолдери"</item>
+        <item quantity="one">" фолдер"</item>
+    </plurals>
+    <plurals name="Nitems_batch_selection">
+        <item quantity="other">Одбрани %d предмети</item>
+        <item quantity="one">Одбран %d предмет</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">Има  %d песни на SD картичка</item>
+        <item quantity="one">Има %d песна на  SD картичка</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d песни додадени на плејлистата.</item>
+        <item quantity="one">1 песна додадена на плејлистата.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d песни избришани од плејлистата</item>
+        <item quantity="one">1 песна избришана од плејлистата</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">%d песни додадени на плејлистата.</item>
+        <item quantity="one">1 песна додадена на плејлистата .</item>
+    </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">%d резултати</item>
+        <item quantity="one">%d резултат</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">"категории"</item>
+        <item quantity="one">" категорија"</item>
+    </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d деновите до истекување</item>
+        <item quantity="one">%d денот до истекување</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d песни</item>
+        <item quantity="one">%1$s, %2$d песна</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%d песни се избришани.</item>
+        <item quantity="one">1 песна е избришана.</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d песни ќе бидат преземени.</item>
+        <item quantity="one">1 песна ќе биде преземена.</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d избришани од плејлистата.</item>
+        <item quantity="one">1 избришана од плејлистата.</item>
+    </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d најдобро рангирани песни</item>
+        <item quantity="one">%d најдобро рангирана песна</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Вашиот повисок квалитет на музички пристап само што не истекол (%d денови преостанати)</item>
+    </plurals>
+</resources>
