@@ -23,7 +23,7 @@
   <string name="confirm_to_add_blacklist">Додај го означениот борј на црната листа?</string>
   <string name="confirm_to_remove_blacklist">Премести го означениот број од црната листа?</string>
   <string name="contact_detail_calllog_call_note_tips">забелешки на повик</string>
-  <string name="contact_detail_calllog_call_record_tips">Повици</string>            ?
+  <string name="contact_detail_calllog_call_record_tips">Повици</string>
   <string name="custom_mark_category">Обични</string>
   <string name="data_error">Грешка,моменталните услуги се недостапни обидете се повторно</string>
   <string name="delete">Избриши</string>
