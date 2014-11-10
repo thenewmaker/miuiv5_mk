@@ -18,7 +18,7 @@
   <string name="accessibility_sync_cal">Синх на календар</string>
   <string name="account_and_calendar">Акаунт и календар</string>
   <string name="account_and_calendar_to_display">Акаунт и календар на екранот</string>
-  <string name="accounts">Акаунти &амп; синх</string>
+  <string name="accounts">Акаунти &amp; синх</string>
   <string name="acct_not_synced">"Овој акаунт не е синхронизиран па вашиот календар може да не е соодветен."</string>
   <string name="acessibility_cal_notification">Известување за календар</string>
   <string name="acessibility_selected_marker_description">Избран настан</string>
