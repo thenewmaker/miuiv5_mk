@@ -150,7 +150,7 @@
         <item>Сите настани</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Овој &амп; идни настани</item>
+        <item>Овој &amp; идни настани</item>
         <item>Сите настани</item>
     </string-array>
     <string-array name="change_response_labels">
