@@ -90,7 +90,7 @@
   <string name="cloud_camera_display_name">Несортиран</string>
   <string name="cloud_gallery_no_pictures">Нема слики во MiCloud</string>
   <string name="cloud_gallery_recyclebin_full">Облачето со ѓубре е полно, ве молиме испразнете го ѓубрето со посета на visiting i.xiaomi.com.</string>
-  <string name="cloud_gallery_space_full">Неуспешно испраќање!, Облачето за Галерија е полно/string>
+  <string name="cloud_gallery_space_full">Неуспешно испраќање!, Облачето за Галерија е полно</string>
   <string name="cloud_media_set_set">Облаче за Албуми</string>
   <string name="cloud_owner_album_share_guide">Можете да го поделите овој албум со пријателите</string>
   <string name="cloud_screenshots_display_name">Снимки на екранот</string>
